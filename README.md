@@ -62,14 +62,3 @@ constants/
   theme.ts              # App theme configuration
 ```
 
-## Resources
-
-[1](https://blog.swmansion.com/building-an-ai-powered-note-taking-app-in-react-native-part-3-local-rag-868ba75f818b)
-[2](https://github.com/callstack/ReactNativeNotes)
-[3](https://www.geeksforgeeks.org/react-native/how-to-create-a-basic-notes-app-using-react-native/)
-[4](https://www.youtube.com/watch?v=TQc6hdc5-8c)
-[5](https://stack.convex.dev/full-stack-ai-voice-note-taking-app)
-[6](https://www.youtube.com/watch?v=FvkmYGs6U50)
-[7](https://dev.to/kartikbudhraja/building-a-simple-note-taking-app-with-react-2g2k)
-[8](https://blog.swmansion.com/building-an-ai-powered-note-taking-app-in-react-native-part-2-image-semantic-search-0456895cdf17)
-[9](https://www.youtube.com/watch?v=vl_Hi9sOyn8)
