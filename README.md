@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/3253ca14-4612-4df9-baa2-408b46202055
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ai-semantic-notes.git
+   git clone https://github.com/Navya-Raj/mc-project-ai-not-taking-app
    cd ai-semantic-notes
    ```
 
